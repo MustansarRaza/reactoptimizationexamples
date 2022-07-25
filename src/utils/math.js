@@ -14,6 +14,7 @@ export const calculatePrime = (num) => {
       }
       i += 1;
       p = primes[i];
+      let temp=150
     }
     return true;
   };
